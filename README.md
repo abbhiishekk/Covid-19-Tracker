@@ -17,6 +17,8 @@ This application displays the latest updates based on numbers from https://www.c
 
 
 Screenshots :
+
+
 ![Screenshot 2022-07-09 165011](https://user-images.githubusercontent.com/74129246/178104237-8b37df03-9ea3-4c6e-a8e1-91439236ab86.png)
 
 
